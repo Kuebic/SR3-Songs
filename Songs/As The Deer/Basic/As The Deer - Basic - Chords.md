@@ -1,20 +1,20 @@
 ---
-bpm:60
-chord_chart_chord_color:1
-chord_chart_columns:2
-chord_chart_font:Helvetica
-chord_chart_font_size:12
-chord_chart_key":"D"
-length:0
-lyrics_enabled:false 
-meter:NULL
-name:Basic
-notes:NULL
-number_chart_enabled:false
-numeral_chart_enabled:false
-print_margin:0.25in
-print_orientation:Portrait
-print_page_size:Letter
+bpm: 60
+chord_chart_chord_color: 1
+chord_chart_columns: 2
+chord_chart_font: Helvetica
+chord_chart_font_size: 12
+chord_chart_key: D
+length: 0
+lyrics_enabled: false 
+meter: NULL
+name: Basic
+notes: NULL
+number_chart_enabled: false
+numeral_chart_enabled: false
+print_margin: 0.25in
+print_orientation: Portrait
+print_page_size: Letter
 ---
 
 ```
