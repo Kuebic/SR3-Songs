@@ -16,6 +16,7 @@ print_margin:0.25in
 print_orientation:Portrait
 print_page_size:Letter
 ---
+
 ```
 sequence: [
   "Verse 1",
