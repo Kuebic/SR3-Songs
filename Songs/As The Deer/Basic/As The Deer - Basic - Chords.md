@@ -15,6 +15,8 @@ numeral_chart_enabled:false
 print_margin:0.25in
 print_orientation:Portrait
 print_page_size:Letter
+---
+```
 sequence: [
   "Verse 1",
   "Verse 2",
@@ -47,7 +49,8 @@ sequence: [
   "Breakdown 1",
   "Breakdown 2"
 ]
----
+```
+
 ```
 VERSE 1
 [D]As the [A]deer panteth [Bm]for the [F#m]water
