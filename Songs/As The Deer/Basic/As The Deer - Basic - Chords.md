@@ -1,5 +1,5 @@
 ---
-bpm:NULL
+bpm:60
 chord_chart_chord_color:1
 chord_chart_columns:2
 chord_chart_font:Helvetica
