@@ -49,6 +49,7 @@ sequence: [
   "Post-Chorus 2",
   "Breakdown 1",
   "Breakdown 2"
+  "Ending"
 ]
 ```
 
