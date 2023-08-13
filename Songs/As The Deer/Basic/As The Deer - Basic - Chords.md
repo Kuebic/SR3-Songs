@@ -1,4 +1,7 @@
 ---
+song_id: NULL
+arrangement_id: NULL
+key_id: NULL
 bpm: 60
 chord_chart_chord_color: 1
 chord_chart_columns: 2
